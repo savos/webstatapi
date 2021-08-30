@@ -11,4 +11,4 @@
 
 . Postman kolekcija ruta je na: https://www.getpostman.com/collections/2b4b2409ef2bf0a86a3e
 
-NAPOMENA: Jedina ruta koja je namestena za sada da radi je GET/webstatapi.test (home ruta)
+**NAPOMENA**: Jedina ruta koja je namestena za sada da radi je GET/webstatapi.test (home ruta)
